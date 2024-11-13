@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Pasindu Eranga
 
-<!--
-**ahperanga/ahperanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and AI enthusiast with a strong interest in open-source development. I believe in the power of community-driven projects and strive to contribute to the open-source ecosystem. 
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+# Languages
+- TypeScript
+- JavaScript
+- Java
+- PHP
+- C#
+
+# Frameworks & Libraries
+- React
+- React Native
+- Spring Boot
+- .NET
+
+# AI & Machine Learning
+- AI/ML model development
+- Data processing
+- Predictive analysis
