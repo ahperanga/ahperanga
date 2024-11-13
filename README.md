@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pasindu Eranga
+# Pasindu Eranga
 
 I'm a passionate software developer and AI enthusiast with a strong interest in open-source development. I believe in the power of community-driven projects and strive to contribute to the open-source ecosystem. 
 
