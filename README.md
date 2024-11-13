@@ -12,15 +12,6 @@ I'm a passionate software developer and AI enthusiast with a strong interest in 
 - PHP
 - C#
 
-## 🚀 About Me
-
-```plaintext
-With a strong technical foundation, I’m constantly exploring new technologies 
-to stay at the forefront of industry trends. I believe in creating scalable, 
-efficient, and user-centric software solutions.
-
-
-
 # Frameworks & Libraries
 - React
 - React Native
